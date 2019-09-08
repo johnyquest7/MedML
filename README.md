@@ -4,7 +4,7 @@ Combined code curated from different sources for repetitive taks.
 
 **medical_metrics.py**
 
-Calcualtes following metrics, draws confusion metrics and receiver operating curve
+Calcualtes following metrics, draws confusion matrix and receiver operating curve
 
 1.Accuracy
 
