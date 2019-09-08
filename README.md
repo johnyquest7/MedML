@@ -1,6 +1,6 @@
 # MedML
-Medical machine learning functions and library
-
+Medical machine learning functions and scripts. 
+Combined code curated from different sources for repetitive taks.
 medical_metrics.py
 
 Calcualtes following metrics, draws confusion metrics and receiver operating curve
