@@ -4,6 +4,24 @@ Combined code curated from different sources for repetitive taks.
 
 **medical_metrics.py**
 
+<p align="justify"><h3>1. AUC ROC Curve</h3></p>
+
+<p align='center'>
+  <img src='README_imgs/ROC_AUC.JPG' width='425'/>
+</p>
+
+<p align="justify"><h3>2. Confusion Matrix</h3></p>
+
+<p align='center'>
+  <img src='README_imgs/confusion_matrix.JPG' width='425'/>
+</p>
+
+<p align="justify"><h3>3. Medical Metrics</h3></p>
+
+<p align='center'>
+  <img src='README_imgs/pretty_table.JPG' width='425'/>
+</p>
+
 Calcualtes following metrics, draws confusion matrix and receiver operating curve
 
 1.Accuracy
