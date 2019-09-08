@@ -31,7 +31,7 @@ Calcualtes following metrics, draws confusion metrics and receiver operating cur
 12.False negative rate
 
 
-Usage
+**Usage**
 
 Download medical_metrics.py into your working directory. 
 Then import it into your python file. 
